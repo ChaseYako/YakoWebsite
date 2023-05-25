@@ -1,4 +1,7 @@
-p {
-  background-color: lightGrey;
+.test {
+  background-color: lightBlue;
   color: blue;
+}
+.comic {
+  font-style: Comic Sans;
 }
