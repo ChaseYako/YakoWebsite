@@ -3,5 +3,7 @@
   color: blue;
 }
 .comic {
+  background-color: clear;
+  color: black;
   font-style: Comic Sans;
 }
